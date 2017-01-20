@@ -1,1 +1,5 @@
 would you like to create remote repository?
+yes
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+it sounds awesome
