@@ -10,3 +10,6 @@ check how much is changed
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 team work
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+yooooooooooooooooooooo
